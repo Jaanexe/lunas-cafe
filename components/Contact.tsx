@@ -23,10 +23,10 @@ const Contact: React.FC = () => {
                 <p className="text-text-main">Sat - Sun: 8am - 5pm</p>
               </div>
               <div className="mt-8 flex justify-center lg:justify-start space-x-6">
-                <a href="https://jaanexe.github.io/jaanexe-portfolio-public/" target="_blank" rel="noopener noreferrer" className="text-coffee-dark hover:text-text-main transition-colors duration-300">
+                <a href="https://jaanexe-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-coffee-dark hover:text-text-main transition-colors duration-300">
                   <InstagramIcon />
                 </a>
-                <a href="https://jaanexe.github.io/jaanexe-portfolio-public/" target="_blank" rel="noopener noreferrer" className="text-coffee-dark hover:text-text-main transition-colors duration-300">
+                <a href="https://jaanexe-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-coffee-dark hover:text-text-main transition-colors duration-300">
                   <FacebookIcon />
                 </a>
               </div>
